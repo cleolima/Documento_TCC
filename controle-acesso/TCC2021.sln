@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCC2021", "TCC2021.csproj", "{CA258D9A-1141-4D76-B5F8-7D22C1ECFB8B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorTCC2021", "Instalador\InstaladorTCC2021\InstaladorTCC2021.vdproj", "{EDD5BCE0-D7F5-4648-9CAC-FBBE1D10EA7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA258D9A-1141-4D76-B5F8-7D22C1ECFB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA258D9A-1141-4D76-B5F8-7D22C1ECFB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA258D9A-1141-4D76-B5F8-7D22C1ECFB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA258D9A-1141-4D76-B5F8-7D22C1ECFB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD5BCE0-D7F5-4648-9CAC-FBBE1D10EA7E}.Debug|Any CPU.ActiveCfg = Debug
+		{EDD5BCE0-D7F5-4648-9CAC-FBBE1D10EA7E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE566D38-BB99-4AA1-AD29-0EDCAB2476BF}
+	EndGlobalSection
+EndGlobal
